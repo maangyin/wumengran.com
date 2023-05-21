@@ -1,7 +1,13 @@
 # Uncomment this file to enable multilanguage site support
 
-#[en]
-#languageName = "English"
-#languagedirection = "ltr"
-#title = "Example Site"
-#weight = 1
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Mengran Wu"
+weight = 1
+
+[cn]
+languageName = "中文"
+languagedirection = "ltr"
+title = "孟然"
+weight = 2
