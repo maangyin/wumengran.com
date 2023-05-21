@@ -8,6 +8,7 @@ categories:
     - Example Category
 tags:
     - Example Tag
+draft: true
 ---
 
 Yet another blog.
