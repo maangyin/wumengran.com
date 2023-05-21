@@ -51,4 +51,4 @@ jobs:
                 REPO: self
                 BRANCH: gh-pages
                 FOLDER: public
-                GITHUB_TOKEN: ${{ secrets.FLOW_TOKEN }}
+                GITHUB_TOKEN: ${{ github.token }}
